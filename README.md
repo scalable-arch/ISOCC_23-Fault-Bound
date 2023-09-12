@@ -15,7 +15,7 @@ Paper title: [ISOCC'23] Synergistic Integration: An Optimal Combination of On-Di
 Paper URL: **(to be updated later)**
 
 # Overview
-![An Overview of the Fault_bound](https://github.com/xyz123479/ISOCC_23-Fault-Bound/blob/main/Fault_bound.png)
+![An Overview of the Fault_bound](https://github.com/scalable-arch/ISOCC_23-Fault-Bound/blob/main/Fault_bound.png)
 
 # Code flows (Fault_sim.cpp)
 - 1. Reading OD-ECC H-Matrix.txt
